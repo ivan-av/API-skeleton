@@ -1,6 +1,6 @@
-API - Skeleton
+# API - Skeleton
 
-# Rutas
+## Rutas
 
 - /api/v1/users
 - /api/v1/users/:id
