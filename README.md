@@ -1,6 +1,10 @@
 # API - Skeleton
 
-## Rutas
+### Iván D. Avila Campos
+
+---
+
+## Routes
 
 - /api/v1/users
 - /api/v1/users/:id
